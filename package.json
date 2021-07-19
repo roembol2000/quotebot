@@ -1,0 +1,24 @@
+{
+  "name": "quotebot",
+  "version": "1.0.0",
+  "description": "Bot created for reddit user u/shades-of-violet because someone wanted to charge them $15 for this.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/roembol2000/quotebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/roembol2000/quotebot/issues"
+  },
+  "homepage": "https://gitlab.com/roembol2000/quotebot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
